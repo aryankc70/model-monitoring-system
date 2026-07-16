@@ -3,3 +3,5 @@ __pycache__/
 reports/
 models/
 data/
+.venv/
+.DS_Store
